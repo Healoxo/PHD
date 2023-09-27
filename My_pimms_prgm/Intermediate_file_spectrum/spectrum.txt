@@ -1,0 +1,4 @@
+from xmm pn Medium 0.2-12
+instrument flux ergs 0.2-12 unabsorbed
+model plasma 6.57 logt 1 1e+21 plasma 7.83 logt 1 1e+21 1 1.2
+output spectrum.mdl 0.2 12.0 0.01

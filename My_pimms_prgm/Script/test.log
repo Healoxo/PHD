@@ -1,0 +1,41 @@
+! PIMMS > hehe
+FCI ERROR:: Unknown command :"HEHE"
+* PIMMS commands are:
+  PLASMA, MODEL, FROM, INSTRUMENT, SHOW, DIRECTORY, LOG, OUTPUT, HELP and QUIT
+! PIMMS > go 1
+* For PLASMA (APEC) model with
+                        kT= 0.0343keV (logT= 5.60), Abund=1.0; NH =  1.000E+22
+    + PLASMA (APEC) model with
+                        kT= 0.8617keV (logT= 7.00), Abund=1.0; NH =  1.000E+22
+             (  1.0000 times component 1 at     1.0000 keV)
+  and  1.000E+00 cps in XMM PN MEDIUM (    0.200-    2.000keV)
+%!% Pile-up corrected PATTERN=0-4 rate in 5 arcmin region assumed
+  (Internal model normalization =  6.043E+04)
+* PIMMS predicts an unabsorbed flux (      0.200-      2.000keV) of  6.140E-07 ergs/cm/cm/s
+! PIMMS > log test
+! PIMMS > gros
+FCI ERROR:: Unknown command :"GROS"
+* PIMMS commands are:
+  PLASMA, MODEL, FROM, INSTRUMENT, SHOW, DIRECTORY, LOG, OUTPUT, HELP and QUIT
+! PIMMS > go 1
+* For PLASMA (APEC) model with
+                        kT= 0.0343keV (logT= 5.60), Abund=1.0; NH =  1.000E+22
+    + PLASMA (APEC) model with
+                        kT= 0.8617keV (logT= 7.00), Abund=1.0; NH =  1.000E+22
+             (  1.0000 times component 1 at     1.0000 keV)
+  and  1.000E+00 cps in XMM PN MEDIUM (    0.200-    2.000keV)
+%!% Pile-up corrected PATTERN=0-4 rate in 5 arcmin region assumed
+  (Internal model normalization =  6.043E+04)
+* PIMMS predicts an unabsorbed flux (      0.200-      2.000keV) of  6.140E-07 ergs/cm/cm/s
+! PIMMS > plasma 1 1 1
+! Enter plasma model name > apec
+! PIMMS > go 1
+* For PLASMA (APEC) model with
+                        kT= 0.0343keV (logT= 5.60), Abund=1.0; NH =  1.000E+22
+    + PLASMA (APEC) model with
+                        kT= 0.8617keV (logT= 7.00), Abund=1.0; NH =  1.000E+22
+             (  1.0000 times component 1 at     1.0000 keV)
+  and  1.000E+00 cps in XMM PN MEDIUM (    0.200-    2.000keV)
+%!% Pile-up corrected PATTERN=0-4 rate in 5 arcmin region assumed
+  (Internal model normalization =  6.043E+04)
+* PIMMS predicts an unabsorbed flux (      0.200-      2.000keV) of  6.140E-07 ergs/cm/cm/s

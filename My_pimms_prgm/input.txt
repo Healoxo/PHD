@@ -1,0 +1,120 @@
+from xmm pn Medium 0.2-12
+instrument flux ergs 0.2-12 unabsorbed
+model plasma 5.6 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 5.65 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 5.7 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 5.75 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 5.8 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 5.85 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 5.9 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 5.95 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 6.0 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 6.05 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 6.1 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 6.15 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 6.2 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 6.25 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 6.3 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 6.35 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 6.4 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 6.45 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 6.5 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 6.55 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 6.6 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 6.65 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 6.7 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 6.75 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 6.8 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 6.85 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 6.9 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 6.95 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 7.0 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 7.05 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 7.1 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 7.15 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 7.2 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 7.25 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 7.3 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 7.35 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 7.4 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 7.45 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 7.5 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 7.55 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 7.6 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 7.65 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 7.7 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 7.75 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 7.8 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 7.85 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 7.9 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 7.95 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 8.0 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 8.05 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 8.1 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 8.15 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 8.2 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 8.25 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 8.3 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 8.35 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 8.4 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 8.45 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01
+model plasma 8.5 logt 1 1e+22 plasma 7 logt 1 1e+22 1 1.2
+go 0.01

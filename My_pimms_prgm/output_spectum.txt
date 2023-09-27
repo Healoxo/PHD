@@ -1,0 +1,13 @@
+*** PIMMS version 4.12b ***
+    2023 Jan 17th Release
+    Reading mission directory, please wait
+* Current model is BREMSSTRAHLUNG, kT=  10.0000 keV; NH =  1.000E+21
+   <--- Use 'MODEL' command to change
+        and 'PLASMA' command to switch among APEC/mekal/RS
+* By default, input rate is taken to be
+ Flux (      2.000-     10.000 keV) in ergs/cm/cm/s
+   <--- Use 'FROM' command to change the default
+* Simulation product will be
+ Count rate in CHANDRA ACIS-I
+   <--- Use 'INSTRUMENT' command to switch to another instrument
+PIMMS > PIMMS > PIMMS > PIMMS > PIMMS > 
